@@ -4,6 +4,7 @@ SC1015 Project Y127 Team 2
 # About
 
 Our team has decided to work on heart disease, as heart disease is one of the leading causes of death globally and is a genuine cause for concern.
+The dataset used will be linked in one of the folders.
 
 # Problem statement
 
