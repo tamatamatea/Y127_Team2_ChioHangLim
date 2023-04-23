@@ -12,9 +12,9 @@ To predict diagnoses based on a patient’s symptoms, and to decide on the suita
 
 # Contributors
 
-Ranielle - 
+Ranielle - Model building, EDA
 
-Xiao En - 
+Xiao En - Outlier removal, EDA
 
 Bryan - 
 
